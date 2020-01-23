@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view style="width: {{ windowWidth }}px; height: {{ windowHeight }}px;">
+  <zrender bindinit="draw"></zrender>
+</view>

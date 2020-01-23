@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "zrender": "^4.2.0"
+  }
+}
